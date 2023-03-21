@@ -12,3 +12,4 @@ yarn dev
 pnpm dev
 ```
 
+## Xinux hamjamiyatining linuxga qaratilgan blog sahifamizni qo'llab quvatlang.

@@ -1,15 +1,14 @@
-## Getting Started
+## Xinux hamjamiyatining linuxga qaratilgan blog sahifamizni qo'llab quvatlang.
 
-First, run the development server:
+## Loyihani ishga tushirish:
 
 ```bash
 npm install
-# and
+# va
 npm run dev
-# or
+# yoki
 yarn dev
-# or
+# yoki
 pnpm dev
 ```
-
-## Xinux hamjamiyatining linuxga qaratilgan blog sahifamizni qo'llab quvatlang.
+## Linuxbek ning imkonyatlari

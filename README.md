@@ -1,4 +1,4 @@
-## Linuxbek
+<h1>Linuxbek</h1>
 
 <p> Xinux hamjamiyatining linuxga qaratilgan blog sahifamizni qo'llab quvatlang.</p>
 

@@ -11,4 +11,4 @@ yarn dev
 # yoki
 pnpm dev
 ```
-### Linuxbek ning imkonyatlari
+## Linuxbek ning imkonyatlari

@@ -1,4 +1,6 @@
-## Xinux hamjamiyatining linuxga qaratilgan blog sahifamizni qo'llab quvatlang.
+# Linuxbek
+
+<p> Xinux hamjamiyatining linuxga qaratilgan blog sahifamizni qo'llab quvatlang.</p>
 
 ## Loyihani ishga tushirish:
 

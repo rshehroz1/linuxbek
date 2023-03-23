@@ -13,4 +13,4 @@ yarn dev
 # yoki
 pnpm dev
 ```
-## Linuxbek ning vazifalari
+

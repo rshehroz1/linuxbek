@@ -1,5 +1,7 @@
 ## Linuxbek
 
+# Til Uzb
+
 <p> Xinux hamjamiyatining linuxga qaratilgan blog sahifamizni qo'llab quvatlang.</p>
 
 ## Loyihani ishga tushirish:

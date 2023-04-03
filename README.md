@@ -1,6 +1,6 @@
 ## Linuxbek
 
-# Til Uzb
+<p> Til Uzb</p>
 
 <p> Xinux hamjamiyatining linuxga qaratilgan blog sahifamizni qo'llab quvatlang.</p>
 
